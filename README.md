@@ -31,7 +31,7 @@ Abaixo está uma visualização do aplicativo em funcionamento:
 - Python 3.7+
 - Bibliotecas:
   - `pygame`
-  - `tkinter` (incluso por padrão)
+  - `tkinter` 
 
 ### Instalação de dependências
 
